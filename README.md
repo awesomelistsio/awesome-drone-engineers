@@ -68,6 +68,7 @@
 
 - [Dronecode SDK](https://sdk.dronecode.org/): A software development kit (SDK) for drone application development.
 - [Dronology](https://www.dronology.io/): An open-source framework for collaborative drone missions and swarm management.
+- [FPVTune](https://fpvtune.com/): A neural-network assistant for Betaflight PID tuning and FPV drone blackbox log analysis.
 - [ROS (Robot Operating System)](https://www.ros.org/): A flexible framework for writing robot software, widely used in drone development.
 
 ## Open Source Projects
