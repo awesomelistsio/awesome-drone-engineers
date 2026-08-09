@@ -41,6 +41,7 @@
 - [DroneKit](http://python.dronekit.io/): A collection of Python libraries for drone development, with tutorials and examples.
 - [ArduPilot Wiki](http://ardupilot.org/): Comprehensive documentation and tutorials for the ArduPilot open-source autopilot platform.
 - [PX4 User Guide](https://docs.px4.io/): A user guide and tutorials for the PX4 autopilot system.
+- [Reboot Hub Drone Wiki](https://reboot-hub.com/pages/drone-wiki): A technical reference covering DJI drone model specifications, components, compatibility, failure modes, and repair guidance.
 
 ## Books
 
